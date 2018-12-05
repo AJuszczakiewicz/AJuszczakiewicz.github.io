@@ -1,11 +1,11 @@
 # Site settings
-author: Aleksandra Juszczakiewicz
-title: 
+author: Alex Ines
+title: Event Horizon
 header-img: img/home-bg.png
 email: curiositylex@protonmail.com
-copyright_name: Aleksandra Juszczakiewicz
+copyright_name: Alex Ines
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A beautiful learning journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AJuszczakiewicz
